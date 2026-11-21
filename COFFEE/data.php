@@ -8,6 +8,9 @@ $menu = [
     'K3' => ['Coffee Jelly',   95],
     'K4' => ['Matcha',         100],
     'K5' => ['Black Coffee',   70],
+    'K6' => ['Spanish Latte',    110],
+    'K7' => ['Choco Hazelnut',   105],
+    'K8' => ['Caramel Macchiato',115],
 ];
 
 // Add-ons: name => price

@@ -1,5 +1,5 @@
 <?php
-
+// ---- EDIT THESE TWO LINES TO CHANGE THE BANNER TEXT ----
 $shopName = "Kapehan ni Juswa";
 $tagline  = "Unang sipsip, masasarapan ka";
 ?>
@@ -54,6 +54,9 @@ $tagline  = "Unang sipsip, masasarapan ka";
         .banner h1 { margin: 0; font-size: 30px; letter-spacing: .5px; }
         .banner p  { margin: 6px 0 0; font-size: 13px; color: var(--sky); font-family: Arial, sans-serif; }
 
+        .banner .nav { margin-top: 12px; }
+        .banner .nav a { color: #fff; margin-right: 6px; }
+
         .content { padding: 28px 32px; }
 
         h2 { color: var(--deep); margin: 26px 0 10px; font-size: 22px; }
@@ -91,7 +94,7 @@ $tagline  = "Unang sipsip, masasarapan ka";
         button:hover { background: var(--navy); }
 
         table { width: 100%; border-collapse: collapse; margin: 10px 0; font-family: Arial, sans-serif; }
-        th { background: var(--deep); color: #fff; font-size: 13px; }
+        th { background: var(--deep); color: #fff; font-size: 13px; text-transform: uppercase; }
         th, td { border: 1px solid #c5dff3; padding: 9px 12px; text-align: left; }
         tr:nth-child(even) td { background: var(--mist); }
 
@@ -127,6 +130,6 @@ $tagline  = "Unang sipsip, masasarapan ka";
     <div class="banner">
         <h1><?php echo $shopName; ?></h1>
         <p><?php echo $tagline; ?></p>
+        <p class="nav"><a href="index.php">Order</a> | <a href="functions.php">Stock</a></p>
     </div>
     <div class="content">
-
