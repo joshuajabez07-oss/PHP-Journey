@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Campus Canteen System</title>
+    <title>KAHIT SAAN</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -23,7 +23,7 @@
         }
 
         .banner {
-            background: #701c1c;
+            background: #4f44eb;
             color: #ffffff;
             padding: 28px 32px;
         }
@@ -47,13 +47,13 @@
         }
 
         h2 {
-            color: #701c1c;
+            color: #1c3270;
             margin-top: 24px;
             font-size: 20px;
         }
 
         h3 {
-            color: #701c1c;
+            color: #1c3270;
             font-size: 16px;
         }
 
@@ -78,7 +78,7 @@
         }
 
         button {
-            background: #701c1c;
+            background: #1c3270;
             color: #ffffff;
             font-weight: bold;
             border: none;
@@ -88,7 +88,7 @@
         }
 
         button:hover {
-            background: #561414;
+            background: #1c3270;
         }
 
         table {
@@ -99,7 +99,7 @@
 
         th {
             background: #f8f5f0;
-            color: #701c1c;
+            color: #1c3270;
             font-size: 12px;
             text-transform: uppercase;
         }
@@ -123,13 +123,13 @@
         }
 
         .error {
-            color: #ad2532;
+            color: #1c3270;
             font-weight: bold;
             text-transform: uppercase;
         }
 
         a {
-            color: #701c1c;
+            color: #1c3270;
             font-weight: bold;
             text-decoration: none;
         }
@@ -138,7 +138,7 @@
 <body>
 <div class="container">
     <div class="banner">
-        <h1>Campus Canteen</h1>
+        <h1>KapehaDSADSAn ni Juswa</h1>
         <p>HOLY ANGEL UNIVERSITY &nbsp;|&nbsp; SCHOOL OF COMPUTING &nbsp;&bull;&nbsp; CLASSROOM MOCKUP</p>
     </div>
     <div class="content">

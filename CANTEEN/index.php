@@ -7,18 +7,19 @@
     
     <label>Customer Type</label>
     <select name="customer_type">
-        <option value="student">Student</option>
-        <option value="employee">Employee</option>
-        <option value="guest">Guest</option>
+        <option value="student">Student (10% off)</option>
+        <option value="employee">Employee (5% off)</option>
+        <option value="guest">Guest (10% off)</option>
+        <option value="pwd">PWD (20% off)</option>
     </select>
     
     <label>Product</label>
     <select name="product">
-        <option value="M1">Chicken Adobo Meal</option>
-        <option value="M2">Pork Sisig Meal</option>
-        <option value="M3">Vegetable Meal</option>
-        <option value="D1">Bottled Water</option>
-        <option value="D2">Iced Tea</option>
+        <option value="K1">French Vanilla</option>
+        <option value="K2">Salted Caramel</option>
+        <option value="K3">Coffee Jelly</option>
+        <option value="K1">Macha</option>
+        <option value="K2">Black Coffee</option>
     </select>
     
     <label>Quantity</label>
